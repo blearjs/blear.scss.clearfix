@@ -1,0 +1,42 @@
+{
+  "name": "blear.scss.clearfix",
+  "version": "1.0.0",
+  "description": "SCSS：mixin clearfix",
+  "scripts": {
+    "live": "browser-sync start --config bs-config.js"
+  },
+  "preferGlobal": false,
+  "bin": {},
+  "engines": {
+    "node": ">=1.0.0",
+    "iojs": ">=1.0.0"
+  },
+  "main": "src/index.js",
+  "keywords": [
+    "blear",
+    "scss",
+    "flexible",
+    "mixin",
+    "rem",
+    "cloudcome",
+    "ydr.me"
+  ],
+  "author": {
+    "name": "cloudcome",
+    "email": "cloudcome@163.com",
+    "url": "http://ydr.me"
+  },
+  "contributors": [],
+  "homepage": "https://github.com/blearjs/blear.scss.clearfix",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blearjs/blear.scss.clearfix"
+  },
+  "bugs": {
+    "url": "https://github.com/blearjs/blear.scss.clearfix/issues"
+  },
+  "dependencies": {},
+  "peerDependencies": {},
+  "devDependencies": {},
+  "license": "MIT"
+}
